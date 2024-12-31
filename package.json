@@ -1,0 +1,22 @@
+{
+  "name": "dafaflare",
+  "version": "1.0.1",
+  "description": "A Growtopia Private Server HTTPS with sustainable features in flexibility and server speed, ensuring server privacy and security.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "https": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafarvn/GTPS-HTTPS"
+  },
+  "author": "DaFa",
+  "license": "MIT",
+  "dependencies": {
+    "gradient-string": "^3.0.0",
+    "mime-types": "^2.1.35",
+    "node-bash-title": "^0.0.2"
+  }
+}
