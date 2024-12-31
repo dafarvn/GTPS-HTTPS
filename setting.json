@@ -1,0 +1,19 @@
+{
+  "Server": {
+    "loginurl": "HERE",
+    "ip": "127.0.0.1",
+    "port": 17091,
+    "maintenance": false,
+    "maintenanceMessage": "Server is currently under maintenance. Please try again later!"
+  },
+  "Settings": {
+    "setTimeout": 30000,
+    "keepAliveTimeout": 5000,
+    "headersTimeout": 10000
+  },
+  "autoBlacklist": {
+    "rateLimitWindow": 60000,
+    "maxRequests": 15,
+    "blacklistDuration": 3600
+  }
+}
