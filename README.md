@@ -7,7 +7,7 @@ DaFaFlare is a powerful DDoS Protection System built for Growtopia Private Serve
 It provides Auto Blacklisted IP, User-Agent Filter, Random Custom Status HTTPS Code.
 
 ## License
-This project id distributed under MIT License
+This project id distributed under MIT License. For detailed terms, please refer to the [LICENSE](LICENSE)
 
 ## ✅ Features
 - Auto Blacklisted IP
