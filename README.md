@@ -23,3 +23,32 @@ Next features, will be updated regularly on GitHub. For further feature requests
    ```
    git clone https://github.com/dafarvn/GTPS-HTTPS2.git ./
    ```
+2. Install required necessary dependencies:
+
+   ```
+   npm install
+   ```
+
+3. Set up system by modifying `setting.json` with your server information and security configurations.
+   default configurations
+   ```
+   {
+      "Server": {
+         "loginurl": "HERE",
+          "ip": "127.0.0.1",
+          "port": 17091,
+          "maintenance": false,
+          "maintenanceMessage": "Server is currently under maintenance. Please try again later!"
+      },
+      "Settings": {
+          "setTimeout": 30000,
+          "keepAliveTimeout": 5000,
+          "headersTimeout": 10000
+      },
+      "autoBlacklist": {
+          "rateLimitWindow": 60000,
+          "maxRequests": 15,
+          "blacklistDuration": 3600
+      }
+   }
+   ```
