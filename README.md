@@ -34,21 +34,21 @@ Next features, will be updated regularly on GitHub. For further feature requests
    ```
    {
       "Server": {
-         "loginurl": "HERE",
-          "ip": "127.0.0.1",
+         "loginurl": "loginurl.com",
+          "ip": "127.0.0.1", // change to your server ip
           "port": 17091,
-          "maintenance": false,
-          "maintenanceMessage": "Server is currently under maintenance. Please try again later!"
+          "maintenance": false, // true or false
+          "maintenanceMessage": "Server is currently under maintenance. Please try again later!" // maintenance message
       },
       "Settings": {
-          "setTimeout": 30000,
-          "keepAliveTimeout": 5000,
+          "setTimeout": 30000, // requests not completed within 30 sec will abort
+          "keepAliveTimeout": 5000, // responsiveness for accept requests
           "headersTimeout": 10000
       },
       "autoBlacklist": {
-          "rateLimitWindow": 60000,
-          "maxRequests": 15,
-          "blacklistDuration": 3600
+          "rateLimitWindow": 30000,
+          "maxRequests": 100, // max requests for user 
+          "blacklistDuration": 3600 // 1 hour blacklist
       }
    }
    ```
