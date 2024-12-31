@@ -18,7 +18,7 @@ Next features, will be updated regularly on GitHub. For further feature requests
 <a href="https://discord.com/channels/@me/1136638093101891665"><img alt="link to my Discord" src="https://img.shields.io/static/v1?label&message=dfarvn&color=000000&style=for-the-badge&logo=discord" height="22px"/></a>
 
 ## ❓ How to Install
-1. Clone the repository
+1. Clone the repository:
    ```
    git clone https://github.com/dafarvn/GTPS-HTTPS2.git ./
    ```
