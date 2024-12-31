@@ -1,2 +1,2 @@
 <div id="top"</div>
-<div align="center" ><img width="100%" alt="DaFaFlare Icon" src="https://i.ibb.co.com/VJTL6Zz/favicon.png"></div>
+<div align="center" ><img width="50%" alt="DaFaFlare Icon" src="https://i.ibb.co.com/VJTL6Zz/favicon.png"></div>
