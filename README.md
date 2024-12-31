@@ -6,6 +6,9 @@
 DaFaFlare is a powerful DDoS Protection System built for Growtopia Private Server using Javascript HTTPS.
 It provides Auto Blacklisted IP, User-Agent Filter, Random Custom Status HTTPS Code.
 
+## License
+This project id distributed under MIT License
+
 ## ✅ Features
 - Auto Blacklisted IP
 - User-Agent Filter
@@ -31,7 +34,7 @@ Next features, will be updated regularly on GitHub. For further feature requests
 
 3. Set up system by modifying `setting.json` with your server information and security configurations.
    
-   default configurations
+   Default configurations:
    ```
    {
       "Server": {
@@ -54,6 +57,8 @@ Next features, will be updated regularly on GitHub. For further feature requests
    }
    ```
 
-5. Power up DaFaFlare:
+4. Power up DaFaFlare:
 
+   ```
+   npm run https
    ```
