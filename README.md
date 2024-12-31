@@ -30,6 +30,7 @@ Next features, will be updated regularly on GitHub. For further feature requests
    ```
 
 3. Set up system by modifying `setting.json` with your server information and security configurations.
+   
    default configurations
    ```
    {
@@ -51,4 +52,8 @@ Next features, will be updated regularly on GitHub. For further feature requests
           "blacklistDuration": 3600 // 1 hour blacklist
       }
    }
+   ```
+
+5. Power up DaFaFlare:
+
    ```
