@@ -7,18 +7,13 @@ DaFaFlare is a powerful DDoS Protection System built for Growtopia Private Serve
 It provides Auto Blacklisted IP, User-Agent Filter, Random Custom Status HTTPS Code.
 
 ## License
-This project id distributed under MIT License. For detailed terms, please refer to the [LICENSE](LICENSE)
+This project is distributed under MIT License. For detailed terms, please refer to the [LICENSE](LICENSE)
 
 ## ✅ Features
 - Auto Blacklisted IP
 - User-Agent Filter
 - Random Custom Status HTTPS Code
 - Server Monitoring (console/logs)
-
-Next features, will be updated regularly on GitHub. For further feature requests or protection, please contact Discord.
-
-<a href="https://github.com/dafarvn"><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/dafarvn?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@dafarvn" height="22px"></a>
-<a href="https://discord.com/channels/@me/1136638093101891665"><img alt="link to my Discord" src="https://img.shields.io/static/v1?label&message=dfarvn&color=000000&style=for-the-badge&logo=discord" height="22px"/></a>
 
 ## ❓ How to Install
 1. Clone the repository:
@@ -62,3 +57,9 @@ Next features, will be updated regularly on GitHub. For further feature requests
    ```
    npm run https
    ```
+
+Next features, will be updated regularly on GitHub. For further feature requests or protection, please contact Discord or Whatsapp
+
+<a href="https://github.com/dafarvn"><img alt="Link to my GitHub" src="https://img.shields.io/github/followers/dafarvn?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@dafarvn" height="22px"></a>
+<a href="https://discord.com/channels/@me/1136638093101891665"><img alt="link to my Discord" src="https://img.shields.io/static/v1?label&message=dfarvn&color=000000&style=for-the-badge&logo=discord" height="22px"/></a>
+<a href="https://wa.me/+6285175265241"><img alt="Link to my Whatsapp" src="https://img.shields.io/static/v1?label&message=dfarvn&color=000000&style=for-the-badge&logo=whatsapp" height="22px"/></a>
